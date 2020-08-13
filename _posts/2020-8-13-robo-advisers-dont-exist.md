@@ -44,18 +44,18 @@ A once described Robo-Broker [9] with millions in funding to "disrupt" the marke
 
 ![alt text](https://cyborg.finance/v2/logo/400x100-head.webp "Cyborg Finance")
 
-The clue with [Cyborg Finance] is in the name. A Cyborg is a person who's abilities are extended before usual human limitations by technology. It's not Robo but a Human Adviser aided by technology. It goes out to say "it's about service, not technology" [11].
+The clue with [Cyborg Finance] is in the name. A Cyborg is a person who's abilities are extended before usual human limitations by technology. It's not Robo but a Human Adviser aided by technology. It goes out to say "Technology assists our advice, technology does not make our advice." [11].
 
 ## MortgageGym
 
-[MortgageGym], a once described RoboAdviser with millions in funding [8]. Now on its homepage, has the headline "Online mortgage service with real advisers" [8]. There is nothing robotic about real advisers. 
+[MortgageGym], a once described RoboAdviser with millions in funding [12]. Now on its homepage, has the headline "Online mortgage service with real advisers" [8]. There is nothing robotic about real advisers. 
 
 ## Hoocht
 
-Hoocht a "real-time mortgage advice platform using chatbots to handle customer conversations, which are followed by automatically-generated mortgage and borrowing capacity illustrations" [5]. Hoocht closed in 2019
+Hoocht a "real-time mortgage advice platform using chatbots to handle customer conversations, which are followed by automatically-generated mortgage and borrowing capacity illustrations"[5] . Hoocht closed in 2019
 
-##Burrow (Dwell)
-Dwell Mortgages chief executive Pradeep Raman says: “We don’t see ourselves as a robo-adviser" Dwell customers can either speak to advisers on the telephone or over WhatsApp to collect outstanding information. Dwell was rename Burrow and then closed. No longer a broker is now software other mortgage brokers can use for onboarding clients.
+## Burrow (Dwell)
+[Burrow Mortgages] chief executive Pradeep Raman says: “We don’t see ourselves as a robo-adviser" Dwell customers can either speak to advisers on the telephone or over WhatsApp to collect outstanding information. Dwell was renamed Burrow and then closed. No longer a broker, Burrow is now software other mortgage brokers can use for onboarding clients.
 
 ## Mojo Mortgages
 
@@ -81,7 +81,11 @@ The FCA in its 2016 [Financial Advice Market Review (FAMR)] said it wanted avail
 
 The FCA has made moves to make Execution Only easier. This would not be "RoboAdvice" but "RoboExecution". As detailed in the [CP19/17] consultation paper. The FCA's [PS18/27] also made it easier for like-for-like remortgages to be execution-only.
 
-So it's not unexpected that we may eventually see some kind of RoboBroker. Though given the emphasis on humans in these Online Brokers marketing (Habito: "Humans that work for you", Trussle: ""personal mortgage adviser"). Do clients want a robot? Or a Human?
+So it's not unexpected that we may eventually see some kind of RoboBroker. Though given the emphasis on humans in these Online Brokers marketing (Habito: "Humans that work for you", Trussle: ""personal mortgage adviser").
+
+Do clients want a robot? Or a Human?
+
+Those said said Robot before, seem to have changed their minds..
 
 [1]: https://www.ftadviser.com/2016/04/14/mortgages/habito-offers-quick-fixes-SSLBRoV346CleI3CdM0yyI/article.html
 
@@ -91,7 +95,7 @@ So it's not unexpected that we may eventually see some kind of RoboBroker. Thoug
 
 [4]: https://techcrunch.com/2020/08/12/habito-completes-series-c/
 
-[5]: https://www.ftadviser.com/mortgages/2018/01/17/mortgage-network-launches-robo-adviser/
+[5]: https://www.ftadviser.com/mortgages/2017/10/30/robo-mortgage-adviser-promises-fastest-ever-applications/
 
 [6]: https://www.which.co.uk/money/mortgages-and-property/mortgages/getting-a-mortgage/online-mortgage-brokers-avpld6k93y6y
 
@@ -103,14 +107,14 @@ So it's not unexpected that we may eventually see some kind of RoboBroker. Thoug
 
 [10]: https://www.dashly.com/partners/mortgage-advisers
 
-[11]: https://cyborg.finance/our-story
+[11]: https://cyborg.finance/our-story/press
 
-[Cyborg Finance]: https://cyborg.finance/
-
-[Bespoke Finance]: https://bespokefinance.info/apply
+[12]: https://www.ftadviser.com/mortgages/2020/01/21/robo-broker-bags-7-5m-of-funding/
 
 [14]: https://www.ftadviser.com/2016/05/17/ifa-industry/technology/robo-advice-the-good-bad-and-the-ugly-aVBOWVGdjUzzsd67kyvl7M/article.html
 
+[Cyborg Finance]: https://cyborg.finance/
+[Bespoke Finance]: https://bespokefinance.info/apply
 [Financial Advice Market Review (FAMR)]: https://www.fca.org.uk/firms/financial-advice-market-review-famr
 [CP19/17]: https://www.fca.org.uk/publications/policy-statements/ps20-01-mortgage-advice-and-selling-standards-feedback-cp19-17-and-final-rules
 [PS18/27]: https://www.fca.org.uk/publications/policy-statements/ps19-27-changes-mortgage-responsible-lending-rules-and-guidance-%E2%80%93-feedback-cp19-14-and-final-rules
@@ -120,3 +124,4 @@ So it's not unexpected that we may eventually see some kind of RoboBroker. Thoug
 [MortgageGym]: https://www.mortgagegym.com/
 [Trussle]: https://trussle.com/
 [Habito]: https://www.habito.com/
+[Burrow Mortgages]: https://www.letsburrow.com/
