@@ -2,7 +2,7 @@
 layout: post
 title: Mortgage Robo Advisers Do Not Exist (2020)
 excerpt: The Mortgage Press did not report it. The Financial Conduct Authority (FCA) did not morn it. We've today learned that RoboAdvice has died.
-image: {{ site.baseurl }}/images/robo-mortgage-advisers-do-not-exist.jpg
+image: https://hosker.info/images/robo-mortgage-advisers-do-not-exist.jpg
 ---
 
 
@@ -12,7 +12,7 @@ image: {{ site.baseurl }}/images/robo-mortgage-advisers-do-not-exist.jpg
 
 The Mortgage Press did not report it. The Financial Conduct Authority (FCA) did not morn it. We've today learned that RoboAdvice has died.
 
-A List of Mortage RoboAdvisers usually includes:
+A List of Mortgage RoboAdvisers usually includes:
 
 1.  Habito
 2.  Trussle
