@@ -1,7 +1,12 @@
 ---
 layout: post
-title: Mortgage Robo Advisers Dont Exist (2020)
+title: Mortgage "Robo Advisers" Do Not Exist (2020)
 ---
+
+
+![alt text]({{ site.baseurl }}/images/robo-mortgage-advisers-do-not-exist.jpg "Mortgage Robo Advisers Do Not Exist")
+
+
 
 The Mortgage Press did not report it. The Financial Conduct Authority (FCA) did not morn it. We've today learned that RoboAdvice has died.
 
