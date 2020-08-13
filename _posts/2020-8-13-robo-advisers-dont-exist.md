@@ -8,8 +8,6 @@ image: https://hosker.info/images/robo-mortgage-advisers-do-not-exist.jpg
 
 ![alt text]({{ site.baseurl }}/images/robo-mortgage-advisers-do-not-exist.jpg "Mortgage Robo Advisers Do Not Exist")
 
-
-
 The Mortgage Press did not report it. The Financial Conduct Authority (FCA) did not morn it. We've today learned that RoboAdvice has died.
 
 A List of Mortgage RoboAdvisers usually includes:
@@ -22,6 +20,9 @@ A List of Mortgage RoboAdvisers usually includes:
 6.  Mojo Mortgages
 7.  Dynamo
 8.  Dashly
+9.  Burrow (Dwell)
+
+To be a Robo Adviser, you need a Robo to give Advice. Except behind every "RoboAdviser" listed here is real humans with CeMap giving recommendations.
 
 ## Habito
 
@@ -41,6 +42,8 @@ A once described Robo-Broker [9] with millions in funding to "disrupt" the marke
 
 ## Cyborg Finance
 
+![alt text](https://cyborg.finance/v2/logo/400x100-head.webp "Cyborg Finance")
+
 The clue with [Cyborg Finance] is in the name. A Cyborg is a person who's abilities are extended before usual human limitations by technology. It's not Robo but a Human Adviser aided by technology. It goes out to say "it's about service, not technology" [11].
 
 ## MortgageGym
@@ -50,6 +53,9 @@ The clue with [Cyborg Finance] is in the name. A Cyborg is a person who's abilit
 ## Hoocht
 
 Hoocht a "real-time mortgage advice platform using chatbots to handle customer conversations, which are followed by automatically-generated mortgage and borrowing capacity illustrations" [5]. Hoocht closed in 2019
+
+##Burrow (Dwell)
+Dwell Mortgages chief executive Pradeep Raman says: “We don’t see ourselves as a robo-adviser" Dwell customers can either speak to advisers on the telephone or over WhatsApp to collect outstanding information. Dwell was rename Burrow and then closed. No longer a broker is now software other mortgage brokers can use for onboarding clients.
 
 ## Mojo Mortgages
 
