@@ -3,7 +3,7 @@ layout: post
 published: true
 tags: mortgages
 title: Mortgage "Robo Advisers" Do Not Exist (2020)
-excerpt: "The Mortgage Press did not report it. The Financial Conduct Authority (FCA) did not morn it. We've today learned that RoboAdvice has died."
+excerpt: The Mortgage Press did not report it. The Financial Conduct Authority (FCA) did not morn it. We've today learned that RoboAdvice has died.
 image: {{ site.baseurl }}/images/robo-mortgage-advisers-do-not-exist.jpg
 ---
 
@@ -27,11 +27,11 @@ A List of Mortage RoboAdvisers usually includes:
 
 ## Habito
 
-When [Habito] launched in 2016 [1] it was described as "automated advice process attempts to map out the next five years of finances, and makes a recommendation".  The Financial Times reported "Habito launches mortgage robo-adviser" that Clients only have to speak to a broker to accept the Advice. The FT went on to outline Habito "will be developed after a few months, so clients do not have to speak to a broker".
+When [Habito] launched in 2016 [1] it was described as "automated advice process that attempts to map out the next five years of finances, and makes a recommendation".  The Financial Times reported "Habito launches mortgage robo-adviser" and clients only have to speak to a broker to accept the Advice. The FT went on to outline Habito "will be developed after a few months, so clients do not have to speak to a broker".
 
-This is a complete contrast to the Habito in 2020, with the homepage saying "Humans that work for you". In 2016 the Robo was giving the Advice in 2020 its Habito's "amazing mortgage brokers, who'll find you the very best deal and do the hard work to get your mortgage over the line".
+This is a complete contrast to the Habito in 2020, with the homepage saying "Humans that work for you". In 2016 the perception was a Robot was giving the Advice. In 2020 its Habito's "amazing mortgage brokers, who will find you the very best deal and do the hard work to get your mortgage over the line".
 
-Habito is no longer a RoboAdviser, its humans that are doing the Advice. Habito now refers to itself as a Digital Mortgage Broker [4] with the online processing being a Fact Find.
+Habito is no longer a RoboAdviser, its humans that are doing the Advice. Habito now refers to itself as a Digital Mortgage Broker [4] with the online process being a Fact Find.
 
 You can not even find the word "Robo" on Habito's website anymore.
 
