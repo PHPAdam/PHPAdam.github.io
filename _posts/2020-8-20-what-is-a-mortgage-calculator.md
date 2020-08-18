@@ -34,9 +34,7 @@ When searching "Mortgage Calculator," these companies have a tool which provides
 
 > NOTE: These calculators are flawed instruments. They are mostly a rough guide, a budget with a multiplier. Not the Affordability Calculators Intermediaries Use.
 
-<center>
 ![Mortgage Affordability Calculator](https://hosker.info/images/2-affordability-calculator.jpg)
-</center>
 
 
 ## Mortgage Payment Calculator
@@ -53,9 +51,7 @@ When searching "Mortgage Calculator," these companies provide this function [Con
 
 > NOTE: These calculators are flawed instruments. Most do not have allowances for different types of rates, Introductory Rates and Standard Variable Rates (SVR).
 
-<center>
 ![Mortgage Payment Calculator](https://hosker.info/images/2-mortgage-payment-calculator.jpg)
-</center>
 
 ## Mortgage Payment & Product Calculator
 
