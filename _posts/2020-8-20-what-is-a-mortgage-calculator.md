@@ -3,7 +3,6 @@ layout: post
 title: What is a Mortgage Calculator?
 excerpt: Every day on Google 27,433 people search for "Mortgage Calculator". BUT! What are they trying to Calculate?
 image: https://hosker.info/images/2-what-is-a-mortgage-calculator.jpg
-published: true
 ---
 
 ![What is a Mortgage Calculator](https://hosker.info/images/2-what-is-a-mortgage-calculator.jpg)
@@ -12,7 +11,6 @@ published: true
 
 Every day on Google 27,433 people search for "Mortgage Calculator". As the term is so vague, it has puzzled me. What are they trying to Calculate?
 
-![823000 Mortgage Calculator Searches a Month](https://hosker.info/images/2-google-mortgage-calculator-search-count.jpg)
 
 Is it Maximum Borrowing (Affordability) like [Virgin Money] provides. Otherwise, Monthly Mortgage Payment like [Citizens Advice] provides.
 
@@ -21,7 +19,7 @@ Is it Maximum Borrowing (Affordability) like [Virgin Money] provides. Otherwise,
 
 I'm not sure...
 
-![Mortgage Affordability Calculator](https://hosker.info/images/2-affordability-calculator.jpg)
+
 ## Affordability Calculator
 
 You use this calculator to find out the maximum mortgage achievable. You would typically provide the system with:
@@ -36,7 +34,11 @@ When searching "Mortgage Calculator," these companies have a tool which provides
 
 > NOTE: These calculators are flawed instruments. They are mostly a rough guide, a budget with a multiplier. Not the Affordability Calculators Intermediaries Use.
 
-![Mortgage Payment Calculator](https://hosker.info/images/2-mortgage-payment-calculator.jpg)
+<center>
+![Mortgage Affordability Calculator](https://hosker.info/images/2-affordability-calculator.jpg)
+</center>
+
+
 ## Mortgage Payment Calculator
 
 You use this calculator to find out your monthly mortgage payments. You would typically provide the system with three things:
@@ -50,6 +52,10 @@ Enter this into the [PMT Function] to be provided with your monthly mortgage pay
 When searching "Mortgage Calculator," these companies provide this function [Confused], [LandC], [Knight Frank], [Alexander Hall], [Mortgages for Business], [Experian] and [Citizens Advice]
 
 > NOTE: These calculators are flawed instruments. Most do not have allowances for different types of rates, Introductory Rates and Standard Variable Rates (SVR).
+
+<center>
+![Mortgage Payment Calculator](https://hosker.info/images/2-mortgage-payment-calculator.jpg)
+</center>
 
 ## Mortgage Payment & Product Calculator
 
