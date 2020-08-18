@@ -3,6 +3,7 @@ layout: post
 title: What is a Mortgage Calculator?
 excerpt: Every day on Google 27,433 people search for "Mortgage Calculator". BUT! What are they trying to Calculate?
 image: https://hosker.info/images/2-what-is-a-mortgage-calculator.jpg
+published: false
 ---
 
 ![What is a Mortgage Calculator](https://hosker.info/images/2-what-is-a-mortgage-calculator.jpg)
@@ -32,10 +33,9 @@ Enter this into a simple formula to be provided with a maximum mortgage amount. 
 
 When searching "Mortgage Calculator," these companies have a tool which provides this function [Bank Rate], [Virgin Money] and [Principaliity].
 
-> NOTE: These calculators are flawed instruments. They are mostly a rough guide, a budget with a multiplier. Not the Affordability Calculators Intermediaries Use.
-
 ![Mortgage Affordability Calculator](https://hosker.info/images/2-affordability-calculator.jpg)
 
+> NOTE: These calculators are flawed instruments. They are mostly a rough guide, a budget with a multiplier. Not the Affordability Calculators Intermediaries Use.
 
 ## Mortgage Payment Calculator
 
@@ -49,9 +49,9 @@ Enter this into the [PMT Function] to be provided with your monthly mortgage pay
 
 When searching "Mortgage Calculator," these companies provide this function [Confused], [LandC], [Knight Frank], [Alexander Hall], [Mortgages for Business], [Experian] and [Citizens Advice]
 
-> NOTE: These calculators are flawed instruments. Most do not have allowances for different types of rates, Introductory Rates and Standard Variable Rates (SVR).
-
 ![Mortgage Payment Calculator](https://hosker.info/images/2-mortgage-payment-calculator.jpg)
+
+> NOTE: These calculators are flawed instruments. Most do not have allowances for different types of rates, Introductory Rates and Standard Variable Rates (SVR).
 
 ## Mortgage Payment & Product Calculator
 
@@ -69,11 +69,11 @@ Other companies do the same but only for their mortgage range [Danske Bank], [Po
 
 ### It's not "Mortgage Payments"
 
-Searching Google for "Mortgage Calculator" gives you mostly Mortgage Payment Calculators. Except there are few reasons, anyone would want this. Especially not 27,433 people a day. Consumers are always tovld the monthly payments on ESIS or KFI's. It would be rare to have on hand just the interest rate, mortgage amount and term without also having the mortgage payment.
+Searching Google for "Mortgage Calculator" gives you mostly Mortgage Payment Calculators. Except there are few reasons, anyone would want this. Especially not 27,433 people a day. Consumers are always told the monthly payments on ESIS or KFI's. It would be rare to have on hand just the interest rate, mortgage amount and term without also having the mortgage payment.
 
 By providing this calculator, I believe most companies are responding to consumer intent wrong.
 
-It's reasonable for [Citizens Advice] to have it, so Consumers can confirm they are paying the correct amount. I can not see clients of lenders or mortgage brokers would need it.
+It's reasonable for [Citizens Advice] to have it, so Consumers can confirm they are paying the correct amount. I can not see clients of lenders or mortgage brokers would needing it (more than the alternatives).
 
 > NOTE: Nothing wrong in having this calculator. It's just not what people are looking for en-mass.
 
@@ -124,12 +124,12 @@ I looked at quite a few Mortgage Calculators for this, here is the best (I've fo
 [Alexander Hall]: https://alexanderhall.co.uk/mortgage-calculator  'Alexander Hall - Mortgage Payment Calculator'
 [Mortgages for Business]: https://mortgagesforbusiness.co.uk/calculators/mortgage-repayment-calculator/  'Mortgages for Business - Mortgage Payment Calculator'
 [Experian]: https://experian.co.uk/consumer/mortgages/calculators/mortgage-calculator.html  'Experian - Mortgage Payment Calculator'
-[Citizens Advice]: https://citizensadvice.org.uk/housing/moving-and-improving-your-home/mortgage-calculator/  'Citizens Advice - Mortgage Payment Calculator'
+[Citizens Advice]: https://www.citizensadvice.org.uk/housing/moving-and-improving-your-home/mortgage-calculator/  'Citizens Advice - Mortgage Payment Calculator'
 [Money Saving Expert]: https://moneysavingexpert.com/mortgages/mortgage-rate-calculator/  'Money Saving Expert - Mortgage Payment Calculator'
 [Danske Bank]: https://danskebank.co.uk/personal/products/mortgages/repayment-calculator  'Danske Bank - Mortgage Payment Calculator (With Rates)'
 [Post Office]: https://postoffice.co.uk/mortgages/repayment-calculator#  'Post Office - Mortgage Payment Calculator (With Rates)'
 [Just Mortgages]: https://justmortgages.co.uk/mortgage-calculator/  'Just Mortgages - Mortgage Payment Calculator (With Rates)'
-[Co-Operative Bank]: https://co-operativebank.co.uk/mortgages/mortgage-calculator  'Co-Operative Bank - Mortgage Payment Calculator (With Rates)'
+[Co-Operative Bank]: https://www.co-operativebank.co.uk/mortgages/mortgage-calculator  'Co-Operative Bank - Mortgage Payment Calculator (With Rates)'
 [Coutts]: https://coutts.com/private-banking/mortgage-calculator.html  'Coutts - Mortgage Payment Calculator (With Rates)'
 [Bank Rate]: https://bankrate.com/uk/mortgages/how-much-can-i-borrow-calculator/  'Bank Rate - Mortgage Affordability Calculator'
 [Virgin Money]: https://uk.virginmoney.com/mortgages/tools/mortgage-calculator/input  'Virgin Money - Mortgage Affordability Calculator'
