@@ -55,6 +55,8 @@ It's in the title 'I write about the most boring niche stuff'. You learned a few
 ## Adam, Why does this even matter?
 Consumer Due-Diligence. The FCA has stated itself that it is battling against fake directories. It needs good Search Engine Optimisation (SEO) and these are basic mistakes that do not foresee a great outcome from the new directory.
 
+> ![Comparing Results](https://hosker.info/images/3-comparison.png "Comparing Results")
+
 [1]: https://register.fca.org.uk/s/ "Financial Services Register"
 [2]: https://www.mortgagesolutions.co.uk/news/2020/07/27/fca-updates-financial-services-register/ "FCA updates financial services register"
 [3]: https://www.google.com/search?q=%E2%80%9CAdam+Hosker%E2%80%9D+%E2%80%9CFinancial+Conduct+Authority "Google: Adam Hosker Financial Conduct Authority"
