@@ -6,7 +6,7 @@ image: https://hosker.info/images/3-masthead.png
 published: true
 ---
 
-The Financial Conduct Authority (FCA) has a [Register of Authorised Firms and Authorised Persons][1]. Consumers can check the firm they are working with is Authorised and Regulated. The Financial Services Register has been running for years. Except this month it received a [redesign][2]. During the redesign, it broke due to forgetting the basic rules of migrating a website.
+The Financial Conduct Authority (FCA) has a [Register of Authorised Firms and Authorised Persons][1]. Consumers can check the firm they are working with is Authorised and Regulated. The Financial Services Register has been running for years. Except this month it received a [redesign][2] as part of a [£20.1 million project][6]. During the redesign, it broke due to forgetting the basic rules of migrating a website.
 
 When you search [Adam Hosker Financial Conduct Authority][3] the top result on Google is the FCA. In 2019 that was perfect anyone doing due-diligence on me can find my entry on the FCA Register. It's simular results if you search for a Authorised company's name.
 
@@ -53,7 +53,7 @@ If a web developer at FCA does read this. On the homepage design, the use of ful
 It's in the title 'I write about the most boring niche stuff'. You learned a few things here for your own websites. If your web developer changes the website structure, use redirects to retain its Google influence and Discoverability. Do you have a robots.txt? Does it have a working sitemap indexing every webpage of your website? Dont follow the FCA lead and get that up and running.
 
 ## Adam, Why does this even matter?
-Consumer Due-Diligence. The FCA has stated itself that it is battling against fake directories. It needs good Search Engine Optimisation (SEO) and these are basic mistakes that do not foresee a great outcome from the new directory. 
+Consumer Due-Diligence. The FCA has stated itself that it is battling against fake directories. It needs good Search Engine Optimisation (SEO) and these are basic mistakes that do not foresee a great outcome from the new directory.
 
 [1]: https://register.fca.org.uk/s/ "Financial Services Register"
 [2]: https://www.mortgagesolutions.co.uk/news/2020/07/27/fca-updates-financial-services-register/ "FCA updates financial services register"
@@ -62,4 +62,4 @@ Consumer Due-Diligence. The FCA has stated itself that it is battling against fa
 [5]: https://wpscholar.com/blog/simple-redirects-with-htaccess/ "Simple Webpage Redirects"
 [6]: https://citywire.co.uk/wealth-manager/news/fca-readies-8-7m-industry-bill-for-new-financial-register/a1135424 "FCA readies £8.7m industry bill for new financial register"
 [7]: https://register.fca.org.uk/robots.txt
-[8]: https://register.fca.org.uk/robots.txt
+[8]: https://register.fca.org.uk/directory/s/sitemap.xml
