@@ -16,7 +16,7 @@ It currently does not work.
 
 The Google result takes you to the FCA homepage. Instead of the entry about me (or my firm). The Financial Conduct Authority (FCA) redesign broke its own Google results.
 
-It's not just me, Google has 42,400 FCA webpages that dont lead to what consumers are looking for. 
+It's not just me, Google has 42,400 FCA webpages that dont lead to what consumers are looking for.
 
 It's been three weeks since the redesign. Google is probably catching on and removing the links to Authorised Persons and Authorised Firms. Which for a service designed to assist in consumer due diligence, is not great.
 
@@ -38,21 +38,22 @@ It's no big issue, a small mistake in a grand [£20.1 million project][6]. The t
 > ![Website Migration Checklist](https://hosker.info/images/3-migration-checklist.png "Website Migration Checklist")
 
 # Not the only SEO Mishap
-For A website to enable Google to find all its webpages has a [robots.txt][7]. This links to what is called a "Sitemap", which is a list of all the webpages on the website. One small problem is the [FCA's sitemap][8] does not work and also leads to the homepage.
 
-Not only, are authorised firms and persons being removed from Google (due to no redirects). There is no Sitemap telling Google where to find the new pages. So the only way it can find a firm now is via internal links on the FCA's website. A difficult task, its behind a FCA Search system. The webpages are becoming increasingly difficult for a Google Search bot to find.
+To enable google to find all its webpages, websites use [robots.txt][7]. This basic document links Google to its sitemap's, which is a list of all the webpages on the website. One small problem is the [FCA's sitemap][8] does not work and also leads to the homepage.
+
+Not only, are authorised firms and persons being removed from Google (due to no redirects). There is no Sitemap telling Google where to find the new pages. So the only way Google can find a firm now is via internal links on the FCA's website. A difficult task, as they are behind a FCA Search system. The webpages are becoming increasingly difficult for a Google Search bot to find.
 
 > ![Bad FCA Sitemap](https://hosker.info/images/3-sitemap.png "Bad FCA Sitemap")
 
 ## One other thing
 
-If a web developer at FCA does read this. On the homepage design, the use of full-width coloured background boxes is to denote a change of content on a page. Not to separate a form from its descriptive title. It's a personal opinion, but it is terrible UI.
+If a web developer at FCA does read this. On the homepage design, the use of full-width coloured background boxes is to denote a change of content on a page. Not to separate a form from its descriptive title. It's a personal opinion, but it is terrible UI. Especially with two forms following each other.
 
 ## Adam, what are you on about?
 It's in the title 'I write about the most boring niche stuff'. You learned a few things here for your own websites. If your web developer changes the website structure, use redirects to retain its Google influence and Discoverability. Do you have a robots.txt? Does it have a working sitemap indexing every webpage of your website? Dont follow the FCA lead and get that up and running.
 
 ## Adam, Why does this even matter?
-Consumer Due-Diligence. The FCA has stated itself that it is battling against fake directories. It needs good Search Engine Optimisation (SEO) and these are basic mistakes that do not foresee a great outcome from the new directory.
+Consumer Due-Diligence. The FCA has stated itself that it is battling against fake directories. It needs good Search Engine Optimisation (SEO) and these are basic mistakes that do not foresee a great outcome from the new directory. 
 
 [1]: https://register.fca.org.uk/s/ "Financial Services Register"
 [2]: https://www.mortgagesolutions.co.uk/news/2020/07/27/fca-updates-financial-services-register/ "FCA updates financial services register"
