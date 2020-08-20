@@ -6,7 +6,7 @@ image: https://hosker.info/images/3-masthead.png
 published: true
 ---
 
-The Financial Conduct Authority (FCA) has a [Register of Authorised Firms and Authorised Persons][1]. Consumers can check the firm they are working with is Authorised and Regulated. The "Financial Services Register" has been running for years. Except this month it received a [redesign][2]. During the redesign, it broke due to forgetting the basic rules of migrating a website.
+The Financial Conduct Authority (FCA) has a [Register of Authorised Firms and Authorised Persons][1]. Consumers can check the firm they are working with is Authorised and Regulated. The Financial Services Register has been running for years. Except this month it received a [redesign][2]. During the redesign, it broke due to forgetting the basic rules of migrating a website.
 
 When you search [Adam Hosker Financial Conduct Authority][3] the top result on Google is the FCA. In 2019 that was perfect anyone doing due-diligence on me can find my entry on the FCA Register. It's simular results if you search for a Authorised company's name.
 
@@ -14,9 +14,11 @@ When you search [Adam Hosker Financial Conduct Authority][3] the top result on G
 
 It currently does not work.
 
-The Google result takes you to the FCA homepage. Instead of the entry about me (or my firm). The Financial Conduct Authority (FCA) redesign broke its own Google results. It's not just me, Google has 42,400 FCA webpages that dont lead to what consumers are looking for. It's been three weeks since the redesign. Google is probably catching on and removing the links to Authorised Persons and Authorised Firms.
+The Google result takes you to the FCA homepage. Instead of the entry about me (or my firm). The Financial Conduct Authority (FCA) redesign broke its own Google results.
 
-Which for a service designed to assist in consumer due diligence, is not great.
+It's not just me, Google has 42,400 FCA webpages that dont lead to what consumers are looking for. 
+
+It's been three weeks since the redesign. Google is probably catching on and removing the links to Authorised Persons and Authorised Firms. Which for a service designed to assist in consumer due diligence, is not great.
 
 > ![42k Bad Links](https://hosker.info/images/3-42k-broken-fca-results.png "42k Bad Links")
 
