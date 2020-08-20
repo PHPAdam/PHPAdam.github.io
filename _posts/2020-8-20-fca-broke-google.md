@@ -10,7 +10,7 @@ The Financial Conduct Authority (FCA) has a [Register of Authorised Firms and Au
 
 When you search [Adam Hosker Financial Conduct Authority][3] the top result on Google is the FCA. In 2019 that was perfect anyone doing due-diligence on me can find my entry on the FCA Register. It's simular results if you search for a Authorised company's name.
 
-![Adam Hosker Financial COnduct Authority](https://hosker.info/images/3-adam-hosker-fca.png "Adam Hosker Financial COnduct Authority")
+> ![Adam Hosker Financial COnduct Authority](https://hosker.info/images/3-adam-hosker-fca.png "Adam Hosker Financial COnduct Authority")
 
 It currently does not work.
 
@@ -18,7 +18,7 @@ The Google result takes you to the FCA homepage. Instead of the entry about me (
 
 Which for a service designed to assist in consumer due diligence, is not great.
 
-![42k Bad Links](https://hosker.info/images/3-42k-broken-fca-results.png "42k Bad Links")
+> ![42k Bad Links](https://hosker.info/images/3-42k-broken-fca-results.png "42k Bad Links")
 
 The issue arises because, during the redesign, they have changed the website address.
 * **Before**: [https://register.fca.org.uk/ShPo_IndividualDetailsPage?id=003b000000LVvtAAAT](https://register.fca.org.uk/ShPo_IndividualDetailsPage?id=003b000000LVvtAAAT)
@@ -33,14 +33,14 @@ It's a two-minute job for an FCA Webmaster to fix. A [simple redirect][5] from t
 
 It's no big issue, a small mistake in a grand [£20.1 million project][6]. The thing about redirects is that it is a basic rule of website migration.
 
-![Website Migration Checklist](https://hosker.info/images/3-migration-checklist.png "Website Migration Checklist")
+> ![Website Migration Checklist](https://hosker.info/images/3-migration-checklist.png "Website Migration Checklist")
 
 # Not the only SEO Mishap
 For A website to enable Google to find all its webpages has a [robots.txt][7]. This links to what is called a "Sitemap", which is a list of all the webpages on the website. One small problem is the [FCA's sitemap][8] does not work and also leads to the homepage.
 
 Not only, are authorised firms and persons being removed from Google (due to no redirects). There is no Sitemap telling Google where to find the new pages. So the only way it can find a firm now is via internal links on the FCA's website. A difficult task, its behind a FCA Search system. The webpages are becoming increasingly difficult for a Google Search bot to find.
 
-![Bad FCA Sitemap](https://hosker.info/images/3-sitemap.png "Bad FCA Sitemap")
+> ![Bad FCA Sitemap](https://hosker.info/images/3-sitemap.png "Bad FCA Sitemap")
 
 ## One other thing
 
