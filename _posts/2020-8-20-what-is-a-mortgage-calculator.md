@@ -3,7 +3,7 @@ layout: post
 title: What is a Mortgage Calculator?
 excerpt: Every day on Google 27,433 people search for "Mortgage Calculator". BUT! What are they trying to Calculate?
 image: https://hosker.info/images/2-what-is-a-mortgage-calculator.jpg
-published: false
+published: true
 ---
 
 ![What is a Mortgage Calculator](https://hosker.info/images/2-what-is-a-mortgage-calculator.jpg)
