@@ -22,7 +22,7 @@ Nearly 75% people surveyed by a UK-based design agency said they faced ‘Zoom A
 
 The BBC goes as far as asying Zoom Calls drain your energy. [2]
 
-#After Covid
+# After Covid
 
 As Martin Stewart of [London Money](http://www.london-money.co.uk/) said:
 
@@ -30,7 +30,7 @@ As Martin Stewart of [London Money](http://www.london-money.co.uk/) said:
 
 You can go back to face-to-face after COVID. Martin thinks the industry has moved on and more productive as a reult
 
-#The Solution
+# The Solution
 It's phone and email. Why complicate things?
 
 [1]: https://www.allthingssecured.com/tips/stop-using-zoom/
