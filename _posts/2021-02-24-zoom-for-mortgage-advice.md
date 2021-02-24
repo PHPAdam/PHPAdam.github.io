@@ -28,7 +28,7 @@ As Martin Stewart of [London Money](http://www.london-money.co.uk/) said:
 
 >Yes, there might be a need for the occasional face to face but given everyone in our sector appears to have knocked it out of the park during lockdown it is hard to justify dragging people half-way around a transport network for a cup of tea and a natter.
 
-You can go back to face-to-face after COVID. Martin thinks the industry has moved on and more productive as a reult
+You can go back to face-to-face after COVID. Martin thinks the industry has moved on and more productive as a result.
 
 # The Solution
 It's phone and email. Why complicate things?
