@@ -6,7 +6,7 @@ image: https://hosker.info/images/5-help-to-buy-when-to-repay.png
 ---
 
 
-![alt text]({{ site.baseurl }}/images/robo-mortgage-advisers-do-not-exist.jpg "Mortgage Robo Advisers Do Not Exist")
+![alt text]({{ site.baseurl }}/images/5-help-to-buy-when-to-repay.png "When to repay help-to-buy?")
 
 The [Help to Buy Scheme] is weird because the Government will take a percentage of profits (or loss) depending on how the house value changes.
 
