@@ -17,7 +17,7 @@ If the house price goes up, the Government will take a percentage of the increas
 What does that mean when it comes to mortgage advisers advice to repay help-to-buy?
 
 ## House Prices Decrease
-At the start of the pandemic, we could have predicted house prices could fall (projecting; unemployment, evictions & finance availability). The help-to-buy scheme will take part in that loss beside them. The best advice would be to keep a help-to-buy loan? So the Government will take a hit alongside the borrower if prices fall.
+At the start of the pandemic, we could have predicted house prices could fall (projecting; unemployment, evictions & finance availability). The help-to-buy scheme will take part in that loss beside the client. The best advice would be to keep a help-to-buy loan? So the Government will take a hit alongside the borrower if prices fall.
 
 In hindsight, it would have been bad advice. With the Government jumping in the help people with the various schemes, this did not occur, and house prices increased or maintained value.
 
@@ -35,7 +35,9 @@ Except I've been wrong before on the direction of house prices, and as predictio
 
 Perhaps our advice to refinance help-to-buy should hinge on how the clients perceive house prices will go.
 
-Like we do on Interest Rates in determining if a Fixed Rate Mortgage is best client outcome. With a pleasant paragraph in our suitability letters.
+Like we do on Interest Rates in determining if a Fixed Rate Mortgage is best client outcome.
+
+With a pleasant paragraph in our suitability letters, "you told me you thought house prices would increase, remortgaging today will remove Help-to-Buy 20% of any increase in value from the date of completion."
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Is it appropriate to recommend existing Help-to-Buy Clients pay off the Help-to-Buy Loan? On the premise that house prices are on the rise.<br><br>Otherwise, the Government will take 20% of that increased value.<br><br>Or is that speculative &amp; may turn out wrong.</p>&mdash; Hosker 🏴󠁧󠁢󠁥󠁮󠁧󠁿 🇬🇧 (@Adam_Hosker) <a href="https://twitter.com/Adam_Hosker/status/1371456858062475268?ref_src=twsrc%5Etfw">March 15, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
