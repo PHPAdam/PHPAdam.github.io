@@ -45,5 +45,5 @@ It's happened before. Reach out to me on [Twitter] or [LinkedIn]
 
 [Help to Buy Scheme]: https://www.helptobuy.gov.uk/
 [How does the Scheme Work?]: https://www.helptobuy.gov.uk/equity-loan/equity-loans/
-[Twitter]: https://twitter.com/Adam_Hosker
-[LinkedIn]: https://www.linkedin.com/in/ahosker/
+[Twitter]: https://twitter.com/Adam_Hosker/status/1384868227638075393
+[LinkedIn]: https://www.linkedin.com/posts/ahosker_how-can-mortgage-advisers-recommend-repayment-activity-6790633908049371137-0b7O
